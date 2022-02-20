@@ -12,7 +12,4 @@ Sou estudando de Front End<br>
 
  ![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateusAugusto1&show_icons=true&theme=dark)
 
-<div>
- ![ Animação de cobra ](https://github.com/Mateusaugusto1/mateusaugusto1/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+
