@@ -1,5 +1,5 @@
 Olá! Eu sou Mateus Augusto 🖐️ <br> 
-Sou estudando de Front End<br>
+Sou estudante de Front End<br>
 
 #
 
