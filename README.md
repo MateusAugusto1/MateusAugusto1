@@ -69,13 +69,6 @@
 
 </div>
 
----
-
-## 📫 Contato
-
-📧 Email: **(adicione aqui se quiser)**  
-💼 LinkedIn: **(opcional)**  
-
----
+--
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1e90ff&height=120&section=footer"/>
