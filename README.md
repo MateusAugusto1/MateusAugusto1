@@ -1,45 +1,81 @@
-💡 Software Engineering focused on real-world systems, logistics automation and scalable digital solutions.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1e90ff&height=180&section=header&text=Mateus%20Augusto&fontSize=38&fontColor=ffffff&animation=fadeIn"/>
 
-I build applications designed to replace manual processes, organize operational data and improve decision-making through software.
+<h3 align="center">💻 Desenvolvedor em formação | Engenharia de Software</h3>
 
----
+<div align="center">
 
-🔹 What I work on:
-- Internal systems for logistics and yard control
-- Mobile & web applications for operational environments
-- SaaS products focused on efficiency and automation
-- Full Stack development based on real business rules
+![GitHub followers](https://img.shields.io/github/followers/MateusAugusto1?style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=MateusAugusto1&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/MateusAugusto1?style=social)
 
----
-
-🛠 Tech Stack:
-- Frontend: React, React Native, HTML, CSS
-- Backend: Node.js, REST APIs
-- Database: Firebase, basic SQL concepts
-- Tools: Git, GitHub, Excel automation
-- Concepts: Authentication, role-based access, data modeling
+</div>
 
 ---
 
-🚀 Featured Projects:
+## 🚀 Sobre mim
 
-📦 Yard Control System  
-Application to manage truck drivers, loading schedules and operational flow inside logistics yards, replacing spreadsheets and manual logs.
-
-📊 Logistics & Operations Tools  
-Systems built to organize operational data, improve visibility and reduce human error in daily processes.
-
-🧩 SaaS Experiments  
-Early-stage SaaS projects focused on niche operational problems, data control and process automation.
+🎓 Formado / cursando **Engenharia de Software**  
+💡 Desenvolvedor focado em **Front-End, sistemas internos e automação**  
+🧠 Aprendendo constantemente **React, JavaScript e boas práticas**  
+📦 Experiência com **logística, controle de processos e sistemas internos**  
+🎯 Objetivo: criar projetos sólidos, úteis e profissionais  
 
 ---
 
-🧠 Mindset:
-- Software as a solution for real operational problems
-- Focus on clarity, usability and scalability
-- Projects driven by necessity, not tutorials
-- Continuous learning through building and iteration
+## 🛠️ Tecnologias e Ferramentas
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-🌎 Open to global opportunities and international collaboration.
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MateusAugusto1&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MateusAugusto1&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 💼 Projetos em Destaque
+
+🔹 **Tela de Login**
+> Interface moderna e responsiva  
+🔗 https://github.com/MateusAugusto1/Tela-de-login  
+
+🔹 **Projetos Front-End**
+> Interfaces e estudos práticos  
+🔗 https://github.com/MateusAugusto1?tab=repositories  
+
+---
+
+## ✨ Atividade Recente
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MateusAugusto1&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 📫 Contato
+
+📧 Email: **(adicione aqui se quiser)**  
+💼 LinkedIn: **(opcional)**  
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,100:1e90ff&height=120&section=footer"/>
